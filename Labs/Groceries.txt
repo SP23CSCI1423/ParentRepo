@@ -1,6 +1,10 @@
 Lab Name: Groceries.pl
 
-1. Create a hash with at least 4 key-value pairs where the keys are grocery items and the keys are their prices.
+1. Create a hash with at least 4 key-value pairs where the keys are grocery items and the values are their prices.
 2. Print out the hash, showing every key and it's respective price
 3. Add up the prices of all the items in the hash using the keys
 4. Print the total price
+
+Keys are grocery items, price is the value, so like (groceryitem1 => price)
+
+
