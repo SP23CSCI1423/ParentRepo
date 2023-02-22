@@ -1,0 +1,15 @@
+Lab 2/22/23
+
+Task 1
+-Ask the user to pick a color
+-Using an if-else statement (this includes elsif), write 3 print statements depending on the color they chose (if they chose red,
+if they chose blue, etc.) (You can choose the colors, they don't have to be red or blue, this was just an example)
+-Be sure to include else statement for if they choose a color other than the three you have 
+
+
+Task 2
+-Make a hash with car information (make, model, year)
+-The make, model, and year should be your keys, you choose the values
+-Print the entire hash so we can read the information (print statement should be like "the model is __, the year is __, etc.)
+
+Name the lab colorsncars.pl
