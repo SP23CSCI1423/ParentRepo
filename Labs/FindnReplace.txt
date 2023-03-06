@@ -1,0 +1,8 @@
+Name the lab FindnReplace.pl
+
+-Create 3 strings, each with different topics (food, cars, colors, etc.)
+-For the first string, use matching and print if there is a match (be sure to have if else statement)
+-For the second string, pick one word and replace it with another
+-For the third string, use the translation function to replace one letter with another
+
+***Be sure to print the original string and then the updated string (so after a word or letter has been replaced)
