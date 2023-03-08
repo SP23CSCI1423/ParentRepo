@@ -1,0 +1,10 @@
+Create a file called SubSandwich.pl
+
+1. Create three subroutines, Ham, Club, and Rueben, that hold the ingredients of each sandwich
+   Each subroutine should print the ingredients
+2. Ask the user which sandwich they would like to eat
+3. After the sandwich has been chosen, call the appropriate subroutine
+   (So if the user picks Ham, it should call the Ham subroutine)
+
+Be sure to have one subroutine per sandwich (so there should be three subroutines) and to call them Ham, Club, and Rueben
+If you don't know the ingredients of the sandwich, feel free to look it up
