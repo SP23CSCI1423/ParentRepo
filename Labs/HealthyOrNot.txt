@@ -1,0 +1,8 @@
+Create a perl file called HealthyOrNot.pl and a perl module file called Food.pm
+
+1. In the Food.pm file create two subroutines:
+	Candy subroutine: Prints 4 types of candy
+	Veggie subroutine: Prints 4 different vegetables
+2. In the HealthyOrNot.pl file, ask the user if they want healthy food or candy
+3. Call the correct subroutine in the Food.pm file depending on their choice
+   (So if they say healthy food, call Veggie, if they say candy, call Candy)
