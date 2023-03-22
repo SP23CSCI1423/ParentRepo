@@ -5,3 +5,18 @@ In the file, create a scalar with a sentence that has at least 6 words in it
 Using regular expresions, search for vowels within the scalar (a,e,i,o,u)
 Create a scalar that keeps track of the number of vowels so every time it finds one, the count increases by one
 Print the total number of vowels found
+
+
+
+SUDO
+
+$sentence
+@vowels = (a , e, i ....)
+
+foreach $v (@vowels){
+    foreach $s ($sentence){
+        if ($s =~ m/$v/){
+            do the things
+        }
+    }
+}
