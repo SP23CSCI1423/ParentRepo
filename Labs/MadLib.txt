@@ -1,0 +1,11 @@
+Create a file called MadLib.py
+
+In python, do the following
+-Ask the user for 2 verbs
+-Ask for 2 adjectives
+-Ask for 2 nouns
+-Be sure to save each of these inputs to different variable names
+-Print the user's input in a Madlib story
+
+
+***Note: Please use multiple print statements so everything fits on screen
