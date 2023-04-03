@@ -1,0 +1,6 @@
+basics.py
+-Print statements
+-Printing numbers
+-Taking in input
+-Printing input
+-Printing different datatypes
