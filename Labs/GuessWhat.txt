@@ -1,6 +1,6 @@
 Lab: GuessWhat.py
 
-1. Using the random import, generate a random integer x within the range (1, 100)
+1. Create a number variable x. Make it equal whatever you want.
 2. Ask the user to quess the number x 
 3. Print if the user's guess was too high, too low, or correct
 4. The program should keep asking the user to guess until they get it right
