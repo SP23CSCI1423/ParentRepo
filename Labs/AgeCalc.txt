@@ -1,0 +1,8 @@
+Ask the user for their name and age
+Print what year they will turn 50
+Print what year they will retire (age 65)
+Print what year they will turn 100
+
+In your code you should be doing the necessary calculations for each of these tasks, 
+and clearly label each print statement so we know which year is for which print statement. 
+Each print statement should also include the user's name.
